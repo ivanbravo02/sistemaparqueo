@@ -1,0 +1,8 @@
+Contraseñas:
+
+1. administrador
+
+admin@estacionamiento.com
+password
+
+*Unico usuario registrado en la base*
